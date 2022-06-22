@@ -1,7 +1,8 @@
 # IDE-Eclipse-e-Intellij
 Exemplos de projetos usando Eclipse e Intellij - Java - DIO
 
-## Comitando com a IDE Eclipse:
+Comitando com a IDE Eclipse:
+
 1- Ir até o GitHub e criar o repositório (colocar o nome que desejar);
 2 -Ir na IDE Eclipse e clicar com o botão direito no diretório que está o projeto, clicar no TEAM e selecionar SHARE PROJECT;
 3- Irá abrir uma janela (config Git Repository) selecionar a opção "use or criate repository in present folder of project"  após, selecionar o repositório;
